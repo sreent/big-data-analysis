@@ -1,0 +1,11 @@
+Wban Number, YearMonthDay, Time, Station Type, Maintenance Indicator, Sky Conditions, Visibility, Weather Type, Dry Bulb Temp, Dew Point Temp, Wet Bulb Temp, % Relative Humidity, Wind Speed (kt), Wind Direction, Wind Char. Gusts (kt), Val for Wind Char., Station Pressure, Pressure Tendency, Sea Level Pressure, Record Type, Precip. Total
+03011,20070401,0050,AO2 ,-,SCT055                                       ,10SM   ,-,32,23,28,69  , 4   ,130,-,0  ,30.13,-,-,AA,-
+03011,20070401,0150,AO2 ,-,BKN055                                       ,10SM   ,-,32,23,28,69  , 4   ,140,-,0  ,30.12,-,-,AA,-
+03011,20070401,0250,AO2 ,-,OVC050                                       ,10SM   ,-,32,23,28,69  , 3   ,130,-,0  ,30.12,-,-,AA,-
+03011,20070401,0350,AO2 ,-,OVC050                                       ,10SM   ,-,34,23,30,64  , 3   ,120,-,0  ,30.12,-,-,AA,-
+03011,20070401,0450,AO2 ,-,BKN050                                       ,10SM   ,-,34,23,30,64  , 4   ,130,-,0  ,30.11,-,-,AA,-
+03011,20070401,0550,AO2 ,-,SCT050 SCT070                                ,10SM   ,-,32,25,28,75  , 3   ,150,-,0  ,30.10,-,-,AA,-
+03011,20070401,0650,AO2 ,-,SCT070                                       ,10SM   ,-,34,25,30,70  , 3   ,130,-,0  ,30.12,-,-,AA,-
+03011,20070401,0750,AO2 ,-,CLR                                          ,10SM   ,-,37,27,34,67  , 4   ,140,-,0  ,30.12,-,-,AA,-
+03011,20070401,0850,AO2 ,-,SCT060 BKN075                                ,10SM   ,-,41,27,36,58  , 0   ,000,-,0  ,30.13,-,-,AA,-
+03011,20070401,0950,AO2 ,-,SCT060 OVC075                                ,10SM   ,-,45,23,37,42  , 0   ,000,-,0  ,30.14,-,-,AA,-

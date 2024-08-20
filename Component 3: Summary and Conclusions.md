@@ -1,4 +1,4 @@
-## Component 3: Summary, Evaluation, and Conclusions
+## Component 3: Summary and Conclusions
 
 ### Introduction
 
